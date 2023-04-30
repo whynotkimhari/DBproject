@@ -20,3 +20,5 @@ The 2 below pics show that what are the tables' structure and relation.
 ```bash
 Creating schema following above structre
 ```
+
+## [PHASE 2](https://github.com/whynotkimhari/DBproject/tree/main/Phần%202)
